@@ -1,6 +1,6 @@
 # Windows Forms Billing System
 ---
-A desktop billing system developed in C# Windows Forms for Software Construction and Development Homework 05. The application allows users to add products, calculate totals, apply discounts, remove items, clear the bill, and view activity logs using the Publisher-Subscriber pattern with C# Events and Delegates
+_A desktop billing system developed in C# Windows Forms for Software Construction and Development Homework 05. The application allows users to add products, calculate totals, apply discounts, remove items, clear the bill, and view activity logs using the Publisher-Subscriber pattern with C# Events and Delegates_
  ---
 
 # ✨ Main features
